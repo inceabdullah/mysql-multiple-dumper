@@ -1,6 +1,6 @@
 {
   "name": "mysql-multiple-dumper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,5 @@
   "dependencies": {
     "date-assistant": "^1.0.0",
     "mysqldump": "^3.2.0"
-  },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  }
 }
