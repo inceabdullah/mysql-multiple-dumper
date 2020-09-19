@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/inceabdullah/mysql-multiple-dumper/issues"
   },
-  "homepage": "https://github.com/inceabdullah/mysql-multiple-dumper#readme"
+  "homepage": "https://github.com/inceabdullah/mysql-multiple-dumper#readme",
+  "dependencies": {
+    "date-assistant": "^1.0.0",
+    "mysqldump": "^3.2.0"
+  }
 }
