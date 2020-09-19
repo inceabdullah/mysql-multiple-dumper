@@ -44,7 +44,7 @@ After then the [DBcredentials.json](./DBcredentials.json) file has an array shou
 
 sql files should be in the [back-ups/](./back-ups) folder with the names like:
 
-`admin-20-09-19-17-38.sql`
+`database_name-20-09-19-17-38.sql`
 
 `db_client-20-09-19-17-38.sql`
 

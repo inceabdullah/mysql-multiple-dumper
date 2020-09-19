@@ -1,6 +1,6 @@
 {
   "name": "mysql-multiple-dumper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/inceabdullah/mysql-multiple-dumper.git"
   },
-  "keywords": [],
+  "keywords": ["mysql", "dump", "back-up", "database"],
   "author": "Abdullah ince, inceabdullah@yahoo.com",
   "license": "ISC",
   "bugs": {
